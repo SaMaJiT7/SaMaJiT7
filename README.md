@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SaMaJiT7
+- 👋 Hi, I’m Samajit Nandi.
 - 👀 I’m interested in Web Development , Web Apps .
 - 🌱 I’m currently learning Java and will start DSA in few days.
 - 💞️ I’m looking to collaborate on Different Projects and open-source.
