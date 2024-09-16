@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Samajit Nandi.
-- 👀 I’m interested in Web Development , Web Apps .
-- 🌱 I’m currently learning Java and will start DSA in few days.
+- 👀 I’m interested in Backend Development , DevOps .
+- 🌱 I’m currently learning DSA in Java.
 - 💞️ I’m looking to collaborate on Different Projects and open-source.
 - 📫 How to reach me by the mode of 1) Mail - samajitnandi@gmail.com , 2)Instagram - https://www.instagram.com/__samajit/ , 3)Twitter - https://twitter.com/SaMaJiT19
 - 
